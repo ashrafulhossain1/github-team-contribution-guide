@@ -9,6 +9,10 @@ The team manager **forks** the repository to create a copy for collaboration.
 ```sh
 ⚡ git clone [repo clone link]
 ```
+### Navigate to the cloned repository:
+```sh
+cd repo-name
+```
 ---
 
 ## 🔧 Step 3: **Set Up the Project**
