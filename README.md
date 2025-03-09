@@ -63,7 +63,7 @@ git push origin first-branch
 ---
 
 ## Step 7: **Await Approval**  
-If you have successfully reached this point, congratulations! You’ve done well! Now, you should wait for the team manager to review and merge your changes. Once approved, your contributions will be added to the main repository. Now, you can rest.
+###If you have successfully reached this point, congratulations! You’ve done well! Now, you should wait for the team manager to review and merge your changes. Once approved, your contributions will be added to the main repository. Now, you can rest.
 ---
 
 ## Step 8: **Sync Fork and Update for Further Contributions**  
