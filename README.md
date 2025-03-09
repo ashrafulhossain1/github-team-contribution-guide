@@ -1,11 +1,11 @@
 # 🚀 **GitHub Contribution as a Team Member**
 
-## 🎯 Step 1: **Fork the Repository** (🔹 Team Manager)
+## 🎯 Step 1: **Fork the Repository** (Team Leader)
 The team manager **forks** the repository to create a copy for collaboration.
 
 ---
 
-## 🛠 Step 2: **Clone the Repository** (🔹 Team Leader)
+## 🛠 Step 2: **Clone the Repository** (Team Leader)
 ```sh
 ⚡ git clone [repo clone link]
 ```
