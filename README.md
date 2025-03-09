@@ -60,7 +60,7 @@ git push origin first-branch
 - **A.** If this is your final version, inform the **team leader** so they can review and merge your changes. Once merged, avoid working on this branch further.  
 - **B.** If further changes are needed, notify the **team leader** before merging. You can continue working on the same branch, push additional commits, and finalize your changes. Once finalized, return to **A** and inform the **team leader** again.  
 
-
+---
 
 ## Step 7: **Await Approval**  
 If you have successfully reached this point, you are welcome! You should now wait for the team manager to review and merge your changes. Once approved, your contributions will be added to the main repository.
