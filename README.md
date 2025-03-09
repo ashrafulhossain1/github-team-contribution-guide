@@ -1,7 +1,7 @@
 #  **GitHub Contribution as a Team Member**
 
 ##  Step 1: **Fork the Repository** (Team Leader)
-The team manager **forks** the repository to create a copy for collaboration.
+The team leader **forks** the repository to create a copy for collaboration.
 
 ---
 
