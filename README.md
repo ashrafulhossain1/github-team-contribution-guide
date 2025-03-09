@@ -60,10 +60,6 @@ git push origin first-branch
 - **A.** If this is your final version, inform the **team leader** so they can review and merge your changes. Once merged, avoid working on this branch further.  
 - **B.** If further changes are needed, notify the **team leader** before merging. You can continue working on the same branch, push additional commits, and finalize your changes. Once finalized, return to **A** and inform the **team leader** again.  
 
----
-
-This revision maintains the original structure while emphasizing the workflow between finalizing changes and notifying the team leader. Let me know if further adjustments are needed!
-
 
 
 ## Step 7: **Await Approval**  
