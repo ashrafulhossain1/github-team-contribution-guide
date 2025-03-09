@@ -63,8 +63,7 @@ git push origin first-branch
 ---
 
 ## Step 7: **Await Approval**  
-If you have successfully reached this point, you are welcome! You should now wait for the team manager to review and merge your changes. Once approved, your contributions will be added to the main repository.
-
+If you have successfully reached this point, congratulations! You’ve done well! Now, you should wait for the team manager to review and merge your changes. Once approved, your contributions will be added to the main repository. Now, you can rest.
 ---
 
 ## Step 8: **Sync Fork and Update for Further Contributions**  
@@ -75,7 +74,7 @@ If you want to contribute **again**, follow these steps:
 git switch main  
 git pull origin main  
 ```  
-
+Then create another new Branch, so Follow Steps 4–7.
 ---
 
 ## Step 9: **Delete a Branch (If Needed)**  
