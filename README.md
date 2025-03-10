@@ -94,15 +94,6 @@ git push origin --delete branch-name
 
 ---
 
-## Step 10: **Delete a Repository (If Needed)**  
-1. Go to your **GitHub account** and navigate to the repository you want to delete.  
-2. Click on **`Settings`** in the repository menu.  
-3. Scroll down to the **`Danger Zone`** section.  
-4. Click **`Delete this repository`**.  
-5. Confirm the deletion by **typing the repository name** and clicking the final delete button.  
-
----
-
 **Note:**  
 - If you need to modify **previously accepted work**, follow **Steps 4–6** again.  
 - **Do not push changes directly to the** `main` **branch.**  
