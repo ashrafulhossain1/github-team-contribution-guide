@@ -5,7 +5,7 @@ The team leader **forks** the repository to create a copy for collaboration.
 
 ---
 
-## Step 2: **Clone your forked Repository**  
+## Step 2: **Go your repository and Clone forked Repository**  
 ```sh  
 git clone [repo clone link]  
 ```  
